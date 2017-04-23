@@ -1,9 +1,9 @@
-# fish-plugin-peco_select_history
+# peco_select_history
 
 ## Installation
 
 ```
-$ fisher 5t111111/fish-plugin-peco_select_history
+$ fisher unreliable-angels/peco_select_history
 ```
 
 ## Example key binding
